@@ -7,4 +7,4 @@ Future versions of BC# will braeak everything. Current BC# master already contai
 
 Watch the license (AGPL3.0)
 
-This all is just a piece of shit and I can prove it mathematically [credit Morty from Rick&Morty show]
+This all is just a piece of shit and I can prove it mathematically [credit [Morty from Rick&Morty show](https://www.youtube.com/watch?v=75vcWraP7oQ)]
