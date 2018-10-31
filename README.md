@@ -6,3 +6,5 @@ Bouncycastle internals are heavily (mis)used and this code MUST be used with rel
 Future versions of BC# will braeak everything. Current BC# master already contains noncompatible changes.
 
 Watch the license (AGPL3.0)
+
+This all is just a piece of shit and I can prove it mathematically [credit Morty from Rick&Morty show]
